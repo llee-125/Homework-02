@@ -1,5 +1,8 @@
 # Louise Lee Portfolio
 
+## Next Steps
+* Seeing 2 "problems" in termal, but cannot identify the issues.
+* Update with ongoing concepts
 
 ## Goals & Motivation
 The purpose of this project is to introduce myself, display completed coding projects and to highlight accomplishments to become a Fully-Stacked Programmer.
