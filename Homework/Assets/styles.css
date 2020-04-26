@@ -1,6 +1,10 @@
 body {
-	background-color: blueviolet;
+	background-color: linen
 }
 .title-color {
 	color: blue;
+}
+
+p.card-text {
+	text-align: center;
 }
