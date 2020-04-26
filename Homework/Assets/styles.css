@@ -10,3 +10,11 @@ body {
 p.card-text {
 	text-align: center;
 }
+
+a:hover {
+  background-color: lightskyblue
+}
+
+a:active {
+  background-color:lightcoral
+}
