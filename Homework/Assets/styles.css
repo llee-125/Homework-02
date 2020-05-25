@@ -18,3 +18,13 @@ a:hover {
 a:active {
   background-color:lightcoral
 }
+
+.button {
+	background-color: chocolate;
+	color: blue;
+}
+
+.button {
+	background-color: darkkhaki;
+	color: red;
+}
