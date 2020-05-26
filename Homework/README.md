@@ -1,29 +1,39 @@
 # Louise Lee Portfolio
 
 ## Next Steps
-* Seeing 2 "problems" in termal, but cannot identify the issues.
-* Update with ongoing concepts
+
+- Add dad's jokes API.
+- Keep updated with new projects.
+- Add non-tech experience.
 
 ## Goals & Motivation
-The purpose of this project is to introduce myself, display completed coding projects and to highlight accomplishments to become a Fully-Stacked Programmer.
 
-### Minimum Requirements
-* Using Bootstrap, develop your portfolio site containing 3 pages (index, about, portfolio) including the following items:
+The purpose of this project is to introduce myself and show my career experience. Ensure to enclude all experience including completed coding projects and highlight ALL accomplishments.
 
-   * A navbar
+## Tech/framework used
 
-   * A responsive layout
+<b>Built with</b>
 
-   * Responsive images
+- html
+- css
+- JavaScript
+- jQuery
+- API--Dad's jokes
 
-   * Must use semantic html.
+## Features
 
-* The Bootstrap portfolio should minimize the use of media queries.
+What makes your project stand out?
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+## API Reference
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
-* Must properly utilize Bootstrap components and grid system.
+## Tests
 
-#### Bonus--Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+Describe and show how to run the tests with code examples.
+
+## Contribute
+
+## Credits
+
+- Louise Lee--Git Hub: llee-125

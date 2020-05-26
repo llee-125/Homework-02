@@ -2,7 +2,16 @@ body {
 	background-color: linen
 	padding-top; 20px;
 }
-
+h1 {
+	font-style: oblique;
+	font-family: monospace;
+	color: royalblue;
+	text-align: center;
+}
+.carousel-inner{
+	image-rendering: optimizeQuality;
+	margin-left: 300px;
+}
 .title-color {
 	color: blue;
 }
